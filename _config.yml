@@ -79,9 +79,9 @@ theme_mode:   # [light|dark]
 # e.g. 'https://cdn.com'
 #
 img_cdn: 
-
+#
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/logo.gif
+avatar: https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif
 
 # boolean type, the global switch for ToC in posts.
 toc: true
