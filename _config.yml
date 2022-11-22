@@ -82,7 +82,7 @@ img_cdn: https://cdn.discordapp.com/attachments/857745190244450357/1044410955863
 
 # the avatar on sidebar, support local or CORS resources
 avatar: https://cdn.discordapp.com/attachments/857745190244450357/1044410955863441408/logo.gif
-
+#
 # boolean type, the global switch for ToC in posts.
 toc: true
 
