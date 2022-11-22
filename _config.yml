@@ -78,10 +78,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 # e.g. 'https://cdn.com'
 #
-img_cdn: https://images-platform.99static.com/wWXwLmgRsHzu_t-73IISLgr1AxY=/572x3395:1257x4080/500x500/top/smart/99designs-contests-attachments/132/132674/attachment_132674120
-#
+img_cdn: http://189.15.28.230:80/logo.gif
+
 # the avatar on sidebar, support local or CORS resources
-avatar: http://189.15.28.230/logo.gif
+avatar: http://189.15.28.230:80/logo.gif
 
 # boolean type, the global switch for ToC in posts.
 toc: true
